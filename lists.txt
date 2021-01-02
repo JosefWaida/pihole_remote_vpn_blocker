@@ -1,3 +1,5 @@
+# Title: Remote VPN blocklist
+# updated: now!
 www.bit.ly/*
 htt[ps]://bit.ly/*
 https://www.czech-craft.eu/*
