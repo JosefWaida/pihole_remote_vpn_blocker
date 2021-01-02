@@ -2,7 +2,7 @@
 # updated: now!
 www.bit.ly/*
 htt[ps]://bit.ly/*
-https://www.czech-craft.eu/*
+0.0.0.0 https://www.czech-craft.eu/*
 https://www.craftlist.org/*
 https://www.mc-list.eu/*
 
