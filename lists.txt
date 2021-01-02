@@ -1,1 +1,1 @@
-testurl.com
+http://bit.ly/*
